@@ -7,7 +7,7 @@ metadata:
     subject: podtato-head_litmus
     workflow_id: 2ee9d2d4-2130-43eb-9312-ee7bc32aea6e
     workflows.argoproj.io/controller-instanceid: 75a955d1-8588-49fd-a1e5-0fb8aad7f390
-  name: podtato-head-1647266009
+  name: podtato-head
   namespace: litmus
 spec:
   arguments:
