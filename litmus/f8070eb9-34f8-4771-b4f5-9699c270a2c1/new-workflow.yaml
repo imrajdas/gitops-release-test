@@ -8,7 +8,7 @@ metadata:
     workflow_id: ff3627ab-72a7-4d58-9ba1-363455c7cc73
     workflows.argoproj.io/controller-instanceid: 75a955d1-8588-49fd-a1e5-0fb8aad7f390
     test: app
-  name: test-workflow
+  name: new-workflow
   namespace: litmus
 spec:
   arguments:
